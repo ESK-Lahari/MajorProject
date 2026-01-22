@@ -1,6 +1,6 @@
-# 🌍 Wanderlust – Airbnb Clone
+# 🌍 StaySphere – Airbnb Clone
 
-**Wanderlust** is a full-stack web application inspired by Airbnb. It allows users to create accounts, list rental properties, browse available stays, and post reviews with ratings. This project was built as part of the **Apna College Full-Stack Web Development Course**.
+**StaySphere** is a full-stack web application inspired by Airbnb. It allows users to create accounts, list rental properties, browse available stays, and post reviews with ratings. This project was built as part of the **Apna College Full-Stack Web Development Course**.
 
 ## 🚀 Live Demo
 
